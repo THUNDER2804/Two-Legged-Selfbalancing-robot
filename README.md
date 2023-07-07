@@ -22,3 +22,8 @@ In this project, The Following Hardware is used
 8. 1 x Bread Board
 
 For the Software part Arduino IDE is used for programming in C++, programming in micro-python for esp32 is optional
+
+
+The Simulation part of this project Has been Done in Simulink Simscape Library
+
+![image](https://github.com/THUNDER2804/Two-Legged-Selfbalancing-robot/assets/60851162/999d5240-5018-4d86-bcae-ddf1a8e05dd9)
