@@ -10,9 +10,9 @@ Youtube Video Links
 
 Self Balancing Robot at a point without drift: https://www.youtube.com/watch?v=CIPJgxVmMkE
 
-Standup of a Self-Balancing Robot From Rest: https://www.youtube.com/shorts/7Z4IFeHc3FM
+Standup of a Self-Balancing Robot From Rest:   https://www.youtube.com/shorts/7Z4IFeHc3FM
 
-Two Legged Self Balancing Robot Simulation: https://www.youtube.com/watch?v=Sdq_bxlS8bc
+Two Legged Self Balancing Robot Simulation:    https://www.youtube.com/watch?v=Sdq_bxlS8bc
 
 
 
