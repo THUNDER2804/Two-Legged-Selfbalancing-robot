@@ -1,6 +1,7 @@
 # Two Legged Self Balancing Robot
 
-Youtube Video Link : https://www.youtube.com/watch?v=CIPJgxVmMkE
+Youtube Video Link: https://www.youtube.com/watch?v=CIPJgxVmMkE
+
 This is my Course Work Project Which is about developing a two-legged self-balancing robot with Adjustable height using a parallel leg mechanism
 
 In this project, The Following Hardware is used
