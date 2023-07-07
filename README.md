@@ -1,5 +1,9 @@
 # Two Legged Self Balancing Robot
 
+This is my Course Work Project Which is about developing a two-legged self-balancing robot with Adjustable height using a parallel leg mechanism
+
+The Simulation part of this project Has been Done in Simulink Simscape Library
+
 ![image](Images/Solid_assembly_image.png)
 
 Youtube Video Links 
@@ -10,7 +14,7 @@ Standup of a Self-Balancing Robot From Rest: https://www.youtube.com/shorts/7Z4I
 
 Two Legged Self Balancing Robot Simulation: https://www.youtube.com/watch?v=Sdq_bxlS8bc
 
-This is my Course Work Project Which is about developing a two-legged self-balancing robot with Adjustable height using a parallel leg mechanism
+
 
 In this project, The Following Hardware is used
 
@@ -24,8 +28,3 @@ In this project, The Following Hardware is used
 8. 1 x Bread Board
 
 For the Software part Arduino IDE is used for programming in C++, programming in micro-python for esp32 is optional
-
-
-The Simulation part of this project Has been Done in Simulink Simscape Library
-
-
