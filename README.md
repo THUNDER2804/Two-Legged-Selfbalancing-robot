@@ -1,5 +1,7 @@
 # Two Legged Self Balancing Robot
 
+![image](Images/Solid_assembly_image.png)
+
 Youtube Video Links 
 
 Self Balancing Robot at a point without drift: https://www.youtube.com/watch?v=CIPJgxVmMkE
@@ -26,4 +28,4 @@ For the Software part Arduino IDE is used for programming in C++, programming in
 
 The Simulation part of this project Has been Done in Simulink Simscape Library
 
-![image](Images/Solid_assembly_image.png)
+
