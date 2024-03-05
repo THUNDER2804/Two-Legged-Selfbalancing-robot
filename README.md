@@ -10,13 +10,13 @@ Youtube Video Links
 
 Self Balancing Robot at a point without drift: https://www.youtube.com/watch?v=CIPJgxVmMkE
 
-Standup of a Self-Balancing Robot From Rest:   https://www.youtube.com/shorts/7Z4IFeHc3FM
+Standup From Rest function of a Self-Balancing Robot:   https://www.youtube.com/shorts/7Z4IFeHc3FM
 
 Two Legged Self Balancing Robot Simulation:    https://www.youtube.com/watch?v=Sdq_bxlS8bc
 
 
 
-In this project, The Following Hardware is used
+In this project, The Following Hardware is used.
 
 1. 1 x ESP32 Dev Module  
 2. 1 x PS4 Controller
